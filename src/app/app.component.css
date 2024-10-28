@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.header {
+    display: flex;
+    align-items: center;
+    background-color: #3b9bb8;
+    padding: 10px;
+    margin-bottom: 20px;
+    height: 70px; 
+}
+.header img {
+    margin-right: 15px;
+}

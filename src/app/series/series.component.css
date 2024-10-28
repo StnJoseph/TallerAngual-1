@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.container {
+    display: flex;
+}
+.series-container {
+    width: 65%; 
+    margin-left: 25px;
+}
+.table {
+    border-collapse: collapse;
+    width: 60%;
+    margin-bottom: 10px;
+}
+.table th, .table td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #cccccc;
+    background-color: #e3e3e3;
+}
+.table td:first-child {
+    font-weight: bold; 
+}
